@@ -2,5 +2,5 @@
 # Each entry is formatted as a process name to look for with the time 
 # to watch for in the format:
 # proc_name days-hours:mins:seconds
-Chrome  0-00:30:00
-zsh     0-00:30:00
+firefox  	0-01:00:00
+zsh     	0-00:30:00
